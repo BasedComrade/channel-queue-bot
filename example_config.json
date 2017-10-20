@@ -1,0 +1,33 @@
+{
+  "BOT_API_TOKEN": {
+    "channel_id": -1001234567890,
+    "admins": [
+      123445678,
+      987654321
+    ],
+    "post_times": [
+      "04:00",
+      "05:00",
+      "06:00",
+      "16:00",
+      "15:00",
+      "21:00",
+      "22:00",
+      "23:00",
+      "23:30",
+      "00:00",
+      "00:30",
+      "01:00",
+      "01:30",
+      "02:00",
+      "02:30",
+      "03:00"
+    ],
+    "per_post": 2,
+    "notify_low": true,
+    "notify_low_count": 34,
+    "notify_queue_empty": true,
+    "disable_notifications": true,
+    "queued_posts": [ ]
+  }
+}
