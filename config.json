@@ -1,9 +1,9 @@
 {
-  "BOT_API_TOKEN": {
-    "channel_id": -1001234567890,
+  "457608928:AAEhQzqTg4S_FUvsd8o89y8FzJ66N3t4jNc": {
+    "channel_id": -1001118377989,
     "admins": [
-      123445678,
-      987654321
+      287619146,
+      390851392
     ],
     "post_times": [
       "04:00",
@@ -28,6 +28,9 @@
     "notify_low_count": 34,
     "notify_queue_empty": true,
     "disable_notifications": true,
-    "queued_posts": []
+    "queued_posts": [
+      "2:photo:AgADAQADzKcxG1BZQUcSEVCCN18fC_Yt9y8ABHPszk7qN1kcDmIAAgI",
+      "3:photo:AgADAQADzacxG1BZQUeZEYiU_4bJ3zIg9y8ABK6NnTwTV1ypQbkAAgI"
+    ]
   }
 }
