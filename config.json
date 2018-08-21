@@ -1,36 +1,94 @@
 {
-  "457608928:AAEhQzqTg4S_FUvsd8o89y8FzJ66N3t4jNc": {
-    "channel_id": -1001118377989,
-    "admins": [
-      287619146,
-      390851392
-    ],
-    "post_times": [
-      "04:00",
-      "05:00",
-      "06:00",
-      "16:00",
-      "15:00",
-      "21:00",
-      "22:00",
-      "23:00",
-      "23:30",
-      "00:00",
-      "00:30",
-      "01:00",
-      "01:30",
-      "02:00",
-      "02:30",
-      "03:00"
-    ],
-    "per_post": 2,
-    "notify_low": true,
-    "notify_low_count": 34,
+  "waiting_for_channel_setup": [],
+  "focus_channels": {
+    "287619146": -1001118377989
+  },
+  "timezone_prefs": {
+    "287619146": -5
+  },
+  "timezones": [
+    "-5",
+    "-4",
+    "-3",
+    "-2",
+    "-1",
+    "+0",
+    "+1",
+    "+2",
+    "+3",
+    "+4",
+    "+5",
+    "+6",
+    "+7",
+    "+8",
+    "+9",
+    "+10",
+    "+11",
+    "+12",
+    "-11",
+    "-10",
+    "-9",
+    "-8",
+    "-7",
+    "-6"
+  ],
+  "waiting_for_channel_select": [],
+  "channels": {
+    "-1001072721736": {
+      "notify_queue_empty": true,
+      "admins": [
+        287619146
+      ],
+      "queued_posts": [],
+      "notify_low": true,
+      "per_post": 1,
+      "notify_low_count": 10,
+      "disable_notifications": false,
+      "post_times": [],
+      "file_ids": {}
+    },
+    "-1001118377989": {
+      "notify_queue_empty": true,
+      "admins": [
+        390851392,
+        287619146
+      ],
+      "queued_posts": [
+      ],
+      "notify_low": true,
+      "per_post": 1,
+      "notify_low_count": 34,
+      "disable_notifications": true,
+      "post_times": [
+        "3:00",
+        "0:00",
+        "1:00",
+        "1:30",
+        "2:00",
+        "2:30",
+        "3:30",
+        "4:00",
+        "4:30",
+        "5:00",
+        "6:00",
+        "23:00"
+      ],
+      "file_ids": {}
+    }
+  },
+  "admins": [
+    287619146
+  ],
+  "token": "457608928:AAEhQzqTg4S_FUvsd8o89y8FzJ66N3t4jNc",
+  "default_settings": {
     "notify_queue_empty": true,
-    "disable_notifications": true,
-    "queued_posts": [
-      "2:photo:AgADAQADzKcxG1BZQUcSEVCCN18fC_Yt9y8ABHPszk7qN1kcDmIAAgI",
-      "3:photo:AgADAQADzacxG1BZQUeZEYiU_4bJ3zIg9y8ABK6NnTwTV1ypQbkAAgI"
-    ]
+    "admins": [],
+    "queued_posts": [],
+    "notify_low": true,
+    "per_post": 1,
+    "notify_low_count": 10,
+    "disable_notifications": false,
+    "post_times": [],
+    "file_ids": {}
   }
 }

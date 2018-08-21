@@ -1,0 +1,7 @@
+
+.gitignore
+.idea/cq-bot.iml
+.idea/inspectionProfiles/
+.idea/modules.xml
+.idea/workspace.xml
+config.json
